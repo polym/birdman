@@ -1,5 +1,5 @@
 # BirdMan
-[!](http://img3.douban.com/view/photo/photo/public/p2204477031.jpg)
+![](http://img3.douban.com/view/photo/photo/public/p2204477031.jpg)
 
 ---
 
