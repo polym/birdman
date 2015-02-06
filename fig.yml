@@ -1,0 +1,7 @@
+birdman:
+    build: .
+    command: bash -c "cd /opt/birdman && sh start.sh"
+    volumes:
+        - .:/opt/birdman
+    ports:
+        - "18888:8888"
